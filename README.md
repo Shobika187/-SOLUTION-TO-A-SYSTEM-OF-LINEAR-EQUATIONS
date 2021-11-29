@@ -23,7 +23,7 @@ sol=np.array.solve(A)
 print(sol)
 ```
 ## Output:
-![Github logo](image.JPEG)
+![Output](./images/Output.JPEG)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
